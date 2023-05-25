@@ -2,6 +2,7 @@
 Confidence interval analysis for TMS SAMT
 
 generate_binominal_distributions.m generates results in Data folder for different number of steps. Change parameter on line 2 for different step numbers.
+
 plot_ranges.m creates visualization of all results under Figures folder
 
 Data folder contains results for number of steps between 8 to 22 (.mat, .fig, and .tif files), and only figures for number of steps of 24 due to .mat file size being over 100 MB. 
